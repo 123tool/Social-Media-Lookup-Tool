@@ -45,4 +45,4 @@ python main.py
 
 ## ​🛑 Catatan Keamanan & Disclaimer
 
-​⚠️ PENTING : Tool ini dibuat murni untuk tujuan edukasi, analisis keamanan digital, investigasi forensik legal, dan riset OSINT (Open Source Intelligence). Penulis tidak bertanggung jawab atas segala bentuk penyalahgunaan tool ini yang melanggar hukum privasi atau ketentuan layanan (Terms of Service) dari platform pihak ketiga terkait. Gunakan dengan bijak dan bertanggung jawab.
+​*Tool ini dibuat murni untuk tujuan edukasi, analisis keamanan digital, investigasi forensik legal, dan riset OSINT (Open Source Intelligence). Penulis tidak bertanggung jawab atas segala bentuk penyalahgunaan tool ini yang melanggar hukum privasi atau ketentuan layanan (Terms of Service) dari platform pihak ketiga terkait. Gunakan dengan bijak dan bertanggung jawab.*
